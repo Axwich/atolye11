@@ -1,0 +1,15 @@
+C:\Users\enesm\source\repos\duzpramit\duzpramit\bin\Debug\net6.0\duzpramit.exe
+C:\Users\enesm\source\repos\duzpramit\duzpramit\bin\Debug\net6.0\duzpramit.deps.json
+C:\Users\enesm\source\repos\duzpramit\duzpramit\bin\Debug\net6.0\duzpramit.runtimeconfig.json
+C:\Users\enesm\source\repos\duzpramit\duzpramit\bin\Debug\net6.0\duzpramit.dll
+C:\Users\enesm\source\repos\duzpramit\duzpramit\bin\Debug\net6.0\duzpramit.pdb
+C:\Users\enesm\source\repos\duzpramit\duzpramit\obj\Debug\net6.0\duzpramit.csproj.AssemblyReference.cache
+C:\Users\enesm\source\repos\duzpramit\duzpramit\obj\Debug\net6.0\duzpramit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesm\source\repos\duzpramit\duzpramit\obj\Debug\net6.0\duzpramit.AssemblyInfoInputs.cache
+C:\Users\enesm\source\repos\duzpramit\duzpramit\obj\Debug\net6.0\duzpramit.AssemblyInfo.cs
+C:\Users\enesm\source\repos\duzpramit\duzpramit\obj\Debug\net6.0\duzpramit.csproj.CoreCompileInputs.cache
+C:\Users\enesm\source\repos\duzpramit\duzpramit\obj\Debug\net6.0\duzpramit.dll
+C:\Users\enesm\source\repos\duzpramit\duzpramit\obj\Debug\net6.0\refint\duzpramit.dll
+C:\Users\enesm\source\repos\duzpramit\duzpramit\obj\Debug\net6.0\duzpramit.pdb
+C:\Users\enesm\source\repos\duzpramit\duzpramit\obj\Debug\net6.0\duzpramit.genruntimeconfig.cache
+C:\Users\enesm\source\repos\duzpramit\duzpramit\obj\Debug\net6.0\ref\duzpramit.dll

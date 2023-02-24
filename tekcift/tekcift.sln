@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tekcift", "tekcift\tekcift.csproj", "{8D39C926-DD3A-42FB-A818-1DDB1CB044A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D39C926-DD3A-42FB-A818-1DDB1CB044A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D39C926-DD3A-42FB-A818-1DDB1CB044A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D39C926-DD3A-42FB-A818-1DDB1CB044A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D39C926-DD3A-42FB-A818-1DDB1CB044A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DCA2CD-BB4A-465D-BC09-410BDB3028AD}
+	EndGlobalSection
+EndGlobal

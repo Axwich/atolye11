@@ -1,0 +1,17 @@
+C:\Users\enesm\source\repos\diziverigir\diziverigir\bin\Debug\net6.0-windows\diziverigir.exe
+C:\Users\enesm\source\repos\diziverigir\diziverigir\bin\Debug\net6.0-windows\diziverigir.deps.json
+C:\Users\enesm\source\repos\diziverigir\diziverigir\bin\Debug\net6.0-windows\diziverigir.runtimeconfig.json
+C:\Users\enesm\source\repos\diziverigir\diziverigir\bin\Debug\net6.0-windows\diziverigir.dll
+C:\Users\enesm\source\repos\diziverigir\diziverigir\bin\Debug\net6.0-windows\diziverigir.pdb
+C:\Users\enesm\source\repos\diziverigir\diziverigir\obj\Debug\net6.0-windows\diziverigir.csproj.AssemblyReference.cache
+C:\Users\enesm\source\repos\diziverigir\diziverigir\obj\Debug\net6.0-windows\diziverigir.Form1.resources
+C:\Users\enesm\source\repos\diziverigir\diziverigir\obj\Debug\net6.0-windows\diziverigir.csproj.GenerateResource.cache
+C:\Users\enesm\source\repos\diziverigir\diziverigir\obj\Debug\net6.0-windows\diziverigir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesm\source\repos\diziverigir\diziverigir\obj\Debug\net6.0-windows\diziverigir.AssemblyInfoInputs.cache
+C:\Users\enesm\source\repos\diziverigir\diziverigir\obj\Debug\net6.0-windows\diziverigir.AssemblyInfo.cs
+C:\Users\enesm\source\repos\diziverigir\diziverigir\obj\Debug\net6.0-windows\diziverigir.csproj.CoreCompileInputs.cache
+C:\Users\enesm\source\repos\diziverigir\diziverigir\obj\Debug\net6.0-windows\diziverigir.dll
+C:\Users\enesm\source\repos\diziverigir\diziverigir\obj\Debug\net6.0-windows\refint\diziverigir.dll
+C:\Users\enesm\source\repos\diziverigir\diziverigir\obj\Debug\net6.0-windows\diziverigir.pdb
+C:\Users\enesm\source\repos\diziverigir\diziverigir\obj\Debug\net6.0-windows\diziverigir.genruntimeconfig.cache
+C:\Users\enesm\source\repos\diziverigir\diziverigir\obj\Debug\net6.0-windows\ref\diziverigir.dll

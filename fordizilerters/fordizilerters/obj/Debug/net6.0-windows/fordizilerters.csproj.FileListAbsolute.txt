@@ -1,0 +1,17 @@
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\obj\Debug\net6.0-windows\fordizilerters.csproj.AssemblyReference.cache
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\obj\Debug\net6.0-windows\fordizilerters.Form1.resources
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\obj\Debug\net6.0-windows\fordizilerters.csproj.GenerateResource.cache
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\obj\Debug\net6.0-windows\fordizilerters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\obj\Debug\net6.0-windows\fordizilerters.AssemblyInfoInputs.cache
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\obj\Debug\net6.0-windows\fordizilerters.AssemblyInfo.cs
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\obj\Debug\net6.0-windows\fordizilerters.csproj.CoreCompileInputs.cache
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\bin\Debug\net6.0-windows\fordizilerters.exe
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\bin\Debug\net6.0-windows\fordizilerters.deps.json
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\bin\Debug\net6.0-windows\fordizilerters.runtimeconfig.json
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\bin\Debug\net6.0-windows\fordizilerters.dll
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\bin\Debug\net6.0-windows\fordizilerters.pdb
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\obj\Debug\net6.0-windows\fordizilerters.dll
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\obj\Debug\net6.0-windows\refint\fordizilerters.dll
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\obj\Debug\net6.0-windows\fordizilerters.pdb
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\obj\Debug\net6.0-windows\fordizilerters.genruntimeconfig.cache
+C:\Users\enesm\source\repos\fordizilerters\fordizilerters\obj\Debug\net6.0-windows\ref\fordizilerters.dll

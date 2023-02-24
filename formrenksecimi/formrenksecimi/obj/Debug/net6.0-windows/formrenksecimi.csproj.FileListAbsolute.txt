@@ -1,0 +1,17 @@
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\obj\Debug\net6.0-windows\formrenksecimi.csproj.AssemblyReference.cache
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\obj\Debug\net6.0-windows\formrenksecimi.Form1.resources
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\obj\Debug\net6.0-windows\formrenksecimi.csproj.GenerateResource.cache
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\obj\Debug\net6.0-windows\formrenksecimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\obj\Debug\net6.0-windows\formrenksecimi.AssemblyInfoInputs.cache
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\obj\Debug\net6.0-windows\formrenksecimi.AssemblyInfo.cs
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\obj\Debug\net6.0-windows\formrenksecimi.csproj.CoreCompileInputs.cache
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\bin\Debug\net6.0-windows\formrenksecimi.exe
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\bin\Debug\net6.0-windows\formrenksecimi.deps.json
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\bin\Debug\net6.0-windows\formrenksecimi.runtimeconfig.json
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\bin\Debug\net6.0-windows\formrenksecimi.dll
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\bin\Debug\net6.0-windows\formrenksecimi.pdb
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\obj\Debug\net6.0-windows\formrenksecimi.dll
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\obj\Debug\net6.0-windows\refint\formrenksecimi.dll
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\obj\Debug\net6.0-windows\formrenksecimi.pdb
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\obj\Debug\net6.0-windows\formrenksecimi.genruntimeconfig.cache
+C:\Users\enesm\source\repos\formrenksecimi\formrenksecimi\obj\Debug\net6.0-windows\ref\formrenksecimi.dll

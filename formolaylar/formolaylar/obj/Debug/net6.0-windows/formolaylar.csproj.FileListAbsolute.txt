@@ -1,0 +1,17 @@
+C:\Users\enesm\source\repos\formolaylar\formolaylar\bin\Debug\net6.0-windows\formolaylar.exe
+C:\Users\enesm\source\repos\formolaylar\formolaylar\bin\Debug\net6.0-windows\formolaylar.deps.json
+C:\Users\enesm\source\repos\formolaylar\formolaylar\bin\Debug\net6.0-windows\formolaylar.runtimeconfig.json
+C:\Users\enesm\source\repos\formolaylar\formolaylar\bin\Debug\net6.0-windows\formolaylar.dll
+C:\Users\enesm\source\repos\formolaylar\formolaylar\bin\Debug\net6.0-windows\formolaylar.pdb
+C:\Users\enesm\source\repos\formolaylar\formolaylar\obj\Debug\net6.0-windows\formolaylar.csproj.AssemblyReference.cache
+C:\Users\enesm\source\repos\formolaylar\formolaylar\obj\Debug\net6.0-windows\formolaylar.Form1.resources
+C:\Users\enesm\source\repos\formolaylar\formolaylar\obj\Debug\net6.0-windows\formolaylar.csproj.GenerateResource.cache
+C:\Users\enesm\source\repos\formolaylar\formolaylar\obj\Debug\net6.0-windows\formolaylar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesm\source\repos\formolaylar\formolaylar\obj\Debug\net6.0-windows\formolaylar.AssemblyInfoInputs.cache
+C:\Users\enesm\source\repos\formolaylar\formolaylar\obj\Debug\net6.0-windows\formolaylar.AssemblyInfo.cs
+C:\Users\enesm\source\repos\formolaylar\formolaylar\obj\Debug\net6.0-windows\formolaylar.csproj.CoreCompileInputs.cache
+C:\Users\enesm\source\repos\formolaylar\formolaylar\obj\Debug\net6.0-windows\formolaylar.dll
+C:\Users\enesm\source\repos\formolaylar\formolaylar\obj\Debug\net6.0-windows\refint\formolaylar.dll
+C:\Users\enesm\source\repos\formolaylar\formolaylar\obj\Debug\net6.0-windows\formolaylar.pdb
+C:\Users\enesm\source\repos\formolaylar\formolaylar\obj\Debug\net6.0-windows\formolaylar.genruntimeconfig.cache
+C:\Users\enesm\source\repos\formolaylar\formolaylar\obj\Debug\net6.0-windows\ref\formolaylar.dll

@@ -1,0 +1,15 @@
+C:\Users\enesm\source\repos\stringarrays\stringarrays\bin\Debug\net6.0\stringarrays.exe
+C:\Users\enesm\source\repos\stringarrays\stringarrays\bin\Debug\net6.0\stringarrays.deps.json
+C:\Users\enesm\source\repos\stringarrays\stringarrays\bin\Debug\net6.0\stringarrays.runtimeconfig.json
+C:\Users\enesm\source\repos\stringarrays\stringarrays\bin\Debug\net6.0\stringarrays.dll
+C:\Users\enesm\source\repos\stringarrays\stringarrays\bin\Debug\net6.0\stringarrays.pdb
+C:\Users\enesm\source\repos\stringarrays\stringarrays\obj\Debug\net6.0\stringarrays.csproj.AssemblyReference.cache
+C:\Users\enesm\source\repos\stringarrays\stringarrays\obj\Debug\net6.0\stringarrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesm\source\repos\stringarrays\stringarrays\obj\Debug\net6.0\stringarrays.AssemblyInfoInputs.cache
+C:\Users\enesm\source\repos\stringarrays\stringarrays\obj\Debug\net6.0\stringarrays.AssemblyInfo.cs
+C:\Users\enesm\source\repos\stringarrays\stringarrays\obj\Debug\net6.0\stringarrays.csproj.CoreCompileInputs.cache
+C:\Users\enesm\source\repos\stringarrays\stringarrays\obj\Debug\net6.0\stringarrays.dll
+C:\Users\enesm\source\repos\stringarrays\stringarrays\obj\Debug\net6.0\refint\stringarrays.dll
+C:\Users\enesm\source\repos\stringarrays\stringarrays\obj\Debug\net6.0\stringarrays.pdb
+C:\Users\enesm\source\repos\stringarrays\stringarrays\obj\Debug\net6.0\stringarrays.genruntimeconfig.cache
+C:\Users\enesm\source\repos\stringarrays\stringarrays\obj\Debug\net6.0\ref\stringarrays.dll

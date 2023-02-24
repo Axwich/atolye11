@@ -1,0 +1,15 @@
+C:\Users\enesm\source\repos\hellofor\hellofor\bin\Debug\net6.0\hellofor.exe
+C:\Users\enesm\source\repos\hellofor\hellofor\bin\Debug\net6.0\hellofor.deps.json
+C:\Users\enesm\source\repos\hellofor\hellofor\bin\Debug\net6.0\hellofor.runtimeconfig.json
+C:\Users\enesm\source\repos\hellofor\hellofor\bin\Debug\net6.0\hellofor.dll
+C:\Users\enesm\source\repos\hellofor\hellofor\bin\Debug\net6.0\hellofor.pdb
+C:\Users\enesm\source\repos\hellofor\hellofor\obj\Debug\net6.0\hellofor.csproj.AssemblyReference.cache
+C:\Users\enesm\source\repos\hellofor\hellofor\obj\Debug\net6.0\hellofor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesm\source\repos\hellofor\hellofor\obj\Debug\net6.0\hellofor.AssemblyInfoInputs.cache
+C:\Users\enesm\source\repos\hellofor\hellofor\obj\Debug\net6.0\hellofor.AssemblyInfo.cs
+C:\Users\enesm\source\repos\hellofor\hellofor\obj\Debug\net6.0\hellofor.csproj.CoreCompileInputs.cache
+C:\Users\enesm\source\repos\hellofor\hellofor\obj\Debug\net6.0\hellofor.dll
+C:\Users\enesm\source\repos\hellofor\hellofor\obj\Debug\net6.0\refint\hellofor.dll
+C:\Users\enesm\source\repos\hellofor\hellofor\obj\Debug\net6.0\hellofor.pdb
+C:\Users\enesm\source\repos\hellofor\hellofor\obj\Debug\net6.0\hellofor.genruntimeconfig.cache
+C:\Users\enesm\source\repos\hellofor\hellofor\obj\Debug\net6.0\ref\hellofor.dll

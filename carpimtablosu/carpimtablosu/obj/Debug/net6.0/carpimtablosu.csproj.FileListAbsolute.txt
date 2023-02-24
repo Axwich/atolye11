@@ -1,0 +1,15 @@
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\bin\Debug\net6.0\carpimtablosu.exe
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\bin\Debug\net6.0\carpimtablosu.deps.json
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\bin\Debug\net6.0\carpimtablosu.runtimeconfig.json
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\bin\Debug\net6.0\carpimtablosu.dll
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\bin\Debug\net6.0\carpimtablosu.pdb
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\obj\Debug\net6.0\carpimtablosu.csproj.AssemblyReference.cache
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\obj\Debug\net6.0\carpimtablosu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\obj\Debug\net6.0\carpimtablosu.AssemblyInfoInputs.cache
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\obj\Debug\net6.0\carpimtablosu.AssemblyInfo.cs
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\obj\Debug\net6.0\carpimtablosu.csproj.CoreCompileInputs.cache
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\obj\Debug\net6.0\carpimtablosu.dll
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\obj\Debug\net6.0\refint\carpimtablosu.dll
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\obj\Debug\net6.0\carpimtablosu.pdb
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\obj\Debug\net6.0\carpimtablosu.genruntimeconfig.cache
+C:\Users\enesm\source\repos\carpimtablosu\carpimtablosu\obj\Debug\net6.0\ref\carpimtablosu.dll
